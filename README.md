@@ -33,9 +33,9 @@ This dataset consists of several million 5-star ratings obtained from users of t
 
 ![Screenshot (337)](https://github.com/Nthabi-06/Movie-recommender-Case-Study/assets/128138564/8be82c40-eeec-4df8-9ea4-11b35438e5f2)
 
--The peaks indicate months with higher movie ratings, while troughs represent months with relatively lower ratings. 
+- The peaks indicate months with higher movie ratings, while troughs represent months with relatively lower ratings. 
 - By analyzing the graph, it is possible to identify specific months or periods with higher movie ratings.
-- 
+  
 ![Screenshot (335)](https://github.com/Nthabi-06/Movie-recommender-Case-Study/assets/128138564/f8b4e414-e629-4f1b-9b7b-fac2f42f755f)
 
 - The graph on the left has a dataset that exhibits a left-skewed distribution of ratings, indicating that more users tend to give positive ratings to movies.
