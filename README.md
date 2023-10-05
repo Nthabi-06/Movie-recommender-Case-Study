@@ -52,6 +52,11 @@ This dataset consists of several million 5-star ratings obtained from users of t
 # Recommendations
 - Recognize that Unfavorable Movie Experiences Are Also Valuable: Consider Incorporating Watch Time Metrics to Identify Movies Users May Not Have Enjoyed. This data is crucial in understanding individual preferences.
 - Motivate Users to Provide Movie Ratings, Especially for Less-Rated Films and Infrequent Raters. This effort aims to balance our dataset effectively.
+  
+# My contributions
+- My duties were to create a GitHub repository.
+- Perform Exploratory Data Analysis (EDA) on the notebook.
+- Evaluate model performances.
 
 # Acknowledgements
 I would like to thank my team members for their contributions:
