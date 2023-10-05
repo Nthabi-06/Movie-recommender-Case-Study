@@ -43,6 +43,10 @@ This dataset consists of several million 5-star ratings obtained from users of t
 - The dataset shows a notable split in ratings around the value of 2.6, with a large number of users giving ratings of 2.6 and above, and a smaller number of users rating movies below 2.6
 - The pie chart shows the total number of people who rated movies above 2.6: 32096073.5 which is 90.9%
 - The total number of people who rated movies 2.6 and below: 3202569.5 which is 9.1%
+  
+The demo of the app we created
+
+https://github.com/Nthabi-06/Movie-recommender-Case-Study/assets/128138564/d32247b1-f549-4c34-ba41-94c911177532
 
 # Conclusions
 - The genre drama has the highest number of movies compared to other genres, indicating its popularity in the film industry.
