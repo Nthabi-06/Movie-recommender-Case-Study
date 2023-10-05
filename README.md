@@ -5,7 +5,7 @@ Please be advised that, in compliance with project confidentiality requirements,
 This project aims to construct a recommendation algorithm using content or collaborative filtering techniques to accurately predict how a user will rate a movie they have not yet viewed, based on their past preferences.
 
 # Dataset
-- This dataset consists of several million 5-star ratings obtained from users of the online MovieLens movie recommendation service. The MovieLens dataset has long been used by industry and academic researchers to improve the performance of explicitly-based recommender systems.
+This dataset consists of several million 5-star ratings obtained from users of the online MovieLens movie recommendation service. The MovieLens dataset has long been used by industry and academic researchers to improve the performance of explicitly-based recommender systems.
   
 # Expected Outcomes
 - Analyze Patterns in Movie Consumption
