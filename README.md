@@ -7,6 +7,9 @@ Please be advised that, in compliance with project confidentiality requirements,
 # Expected Outcomes
 # Tools Used
 # Output
+
+![Screenshot (334)](https://github.com/Nthabi-06/Movie-recommender-Case-Study/assets/128138564/ba77eff9-f6a1-4d18-9f27-015d432b86b7)
+
 # Conclusions
 # Recommendations
 # Acknowledgements
