@@ -42,7 +42,7 @@ This dataset consists of several million 5-star ratings obtained from users of t
 - A smaller proportion of users gave ratings between 0 and 2.7, while a larger proportion provided ratings between 3 and 5, indicating a preference for positively rated movies.
 - The dataset shows a notable split in ratings around the value of 2.6, with a large number of users giving ratings of 2.6 and above, and a smaller number of users rating movies below 2.6.
 - The pie chart shows the total number of people who rated movies above 2.6: 32096073.5 which is 90.9%.
-- The total number of people who rated movies 2.6 and below: 3202569.5 which is 9.1%
+- The total number of people who rated movies 2.6 and below: 3202569.5 which is 9.1%.
 
 # Conclusions
 # Recommendations
